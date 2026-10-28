@@ -1,32 +1,23 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Josh Brown. Full stack. Real data. Practical AI." />
+  <img src="./assets/intro.svg" width="100%" alt="Josh Brown. Father, software engineer, and builder based in Denver. Full stack. Real data. Practical AI. I build full stack applications and practical AI tools." />
 </p>
-
-I’m **Josh**, a father, software engineer, and builder based in Denver. I build full stack applications and practical AI tools.
-
-### `01 / What I build`
-
-**AI tools and the harness behind them.** At **Insurate**, I build AI applications for underwriting, including web research, account insights, and an internal AI harness with tool orchestration, conversational memory, and streaming responses.
 
 <p align="center">
-  <img src="./assets/ai-harness.svg" width="100%" alt="AI harness capabilities: tool orchestration, memory and context, model integrations, streaming, and concurrency." />
+  <img src="./assets/work.svg" width="100%" alt="At Insurate, I build AI tools for underwriting, including web research, account insights, and an internal AI harness. Capabilities include tool orchestration, conversational memory, streaming, shared chats, caching, parallel AI requests, and OpenAI and Anthropic integrations. I built a dedicated testing portal connected to a development environment without touching live data. Previously at Fortress Information Security, I built APIs and full stack applications using Node.js, Python, PostgreSQL, React, and Express, and maintained an internal portal integrating VirusTotal APIs to support analysis of new software releases." />
 </p>
 
-The work spans conversational memory, shared chats, caching, parallel AI requests, and integrations with **OpenAI and Anthropic SDKs**. I also built a dedicated testing portal connected to a development environment so AI tools can be tested without touching live data.
+<p align="center">
+  <img src="./assets/toolkit.svg" width="100%" alt="Application development: JavaScript, Python, Node.js, React, Express, PostgreSQL. AI engineering: OpenAI and Anthropic SDKs, tool orchestration, memory, streaming, caching, and concurrency. Development tools: Claude, Codex, Cursor, and Grok CLI." />
+</p>
 
-**Full stack foundations.** Previously at **Fortress Information Security**, I built APIs and applications with Node.js, Python, PostgreSQL, React, and Express. I maintained an internal portal integrating VirusTotal APIs to support analysis of new software releases.
+<p align="center">
+  <a href="https://github.com/TJCourey/ClayPal">
+  <img src="./assets/claypal.svg" width="100%" alt="Earlier builds. ClayPal, a collaborative clay sports score-tracking app with dashboards and leaderboards. Open the repository." />
+  </a>
+</p>
 
-### `02 / The toolkit`
-
-| Build | Connect | Ship |
-| :--- | :--- | :--- |
-| JavaScript · Python | OpenAI · Anthropic SDKs | React · Node.js · Express |
-| PostgreSQL · SQL | AI harness · Memory · Streaming | APIs · Caching · AI test environments |
-
-**In my editor & terminal:** Claude · Codex · Cursor · Grok CLI
-
-### `03 / Earlier builds`
-
-[**ClayPal ↗**](https://github.com/TJCourey/ClayPal). A collaborative score-tracking app for clay sports, with dashboards and leaderboards.
-
-[**Insomnia-Thai ↗**](https://github.com/Brownies-SE/Insomnia-Thai). A collaborative restaurant app with accounts, reservations, takeout orders, and email confirmations.
+<p align="center">
+  <a href="https://github.com/Brownies-SE/Insomnia-Thai">
+  <img src="./assets/insomnia-thai.svg" width="100%" alt="Insomnia-Thai, a collaborative restaurant application with accounts, reservations, takeout orders, and email confirmations. Open the repository." />
+  </a>
+</p>
