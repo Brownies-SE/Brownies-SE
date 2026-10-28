@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Josh Brown — Full stack. Real data. Practical AI." />
+  <img src="./assets/banner.svg" width="100%" alt="Josh Brown. Full stack. Real data. Practical AI." />
 </p>
 
-I’m **Josh**—a father, software engineer, and builder based in Denver. I build full stack applications and practical AI tools.
+I’m **Josh**, a father, software engineer, and builder based in Denver. I build full stack applications and practical AI tools.
 
 ### `01 / What I build`
 
@@ -27,6 +27,6 @@ The work spans conversational memory, shared chats, caching, parallel AI request
 
 ### `03 / Earlier builds`
 
-[**ClayPal ↗**](https://github.com/TJCourey/ClayPal) — A collaborative score-tracking app for clay sports, with dashboards and leaderboards.
+[**ClayPal ↗**](https://github.com/TJCourey/ClayPal). A collaborative score-tracking app for clay sports, with dashboards and leaderboards.
 
-[**Insomnia-Thai ↗**](https://github.com/Brownies-SE/Insomnia-Thai) — A collaborative restaurant app with accounts, reservations, takeout orders, and email confirmations.
+[**Insomnia-Thai ↗**](https://github.com/Brownies-SE/Insomnia-Thai). A collaborative restaurant app with accounts, reservations, takeout orders, and email confirmations.
