@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" width="100%" alt="Josh Brown — Full stack. Real data. Practical AI." />
 </p>
 
-I’m **Josh**, a software engineer in Denver. I build full stack applications and AI tools that help people work with complex information—from software security to insurance underwriting.
+I’m **Josh**—a father, software engineer, and builder based in Denver. I build full stack applications and practical AI tools.
 
 ### `01 / What I build`
 
