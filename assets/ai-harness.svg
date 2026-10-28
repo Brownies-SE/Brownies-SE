@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">AI harness capabilities</title><desc id="desc">Tool orchestration, memory and context, model integrations, response streaming, and concurrency.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#51e5d2"/></marker></defs>
+<rect width="1200" height="240" rx="16" fill="#0d1625"/>
+<text x="32" y="37" fill="#9eb3cb" font-family="monospace" font-size="14" letter-spacing="2">AI HARNESS / CORE CAPABILITIES</text>
+<g fill="#142338" stroke="#31455e">
+<rect x="32" y="67" width="192" height="84" rx="10"/><rect x="266" y="67" width="192" height="84" rx="10"/><rect x="500" y="67" width="192" height="84" rx="10"/><rect x="734" y="67" width="192" height="84" rx="10"/><rect x="968" y="67" width="200" height="84" rx="10" stroke="#c5f277"/>
+</g>
+
+<g font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" fill="#f0f5fc" text-anchor="middle">
+<text x="128" y="104">Tools</text><text x="362" y="104">Memory</text><text x="596" y="104">Models</text><text x="830" y="104">Streaming</text><text x="1068" y="104" fill="#d2f69d">Concurrency</text>
+</g>
+<g font-family="monospace" font-size="13" fill="#a8bbcf" text-anchor="middle"><text x="128" y="129">orchestration</text><text x="362" y="129">context</text><text x="596" y="129">SDK integrations</text><text x="830" y="129">responses</text><text x="1068" y="129">parallel requests</text></g>
+<path d="M32 177H1168" stroke="#26384d"/><text x="600" y="211" text-anchor="middle" fill="#a8bbcf" font-family="monospace" font-size="16">TOOL CALLING  /  CACHING  /  SHARED CHATS  /  AI TEST ENVIRONMENTS</text>
+</svg>

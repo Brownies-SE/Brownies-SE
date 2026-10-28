@@ -6,10 +6,10 @@ I’m **Josh**, a software engineer in Denver. I build full stack applications a
 
 ### `01 / What I build`
 
-**AI that works with real data.** At **Insurate**, I build tools for underwriters: web research, account insights, and an internal assistant that turns questions into SQL, retrieves company data, and streams answers grounded in the results.
+**AI tools and the harness behind them.** At **Insurate**, I build AI applications for underwriting, including web research, account insights, and an internal AI harness with tool orchestration, conversational memory, and streaming responses.
 
 <p align="center">
-  <img src="./assets/ai-workflow.svg" width="100%" alt="User question → tool calls and SQL → database results → LLM response → streamed answer. With memory, caching, parallel requests, and shared chats." />
+  <img src="./assets/ai-harness.svg" width="100%" alt="AI harness capabilities: tool orchestration, memory and context, model integrations, streaming, and concurrency." />
 </p>
 
 The work spans conversational memory, shared chats, caching, parallel AI requests, and integrations with **OpenAI and Anthropic SDKs**. I also built a dedicated testing portal connected to a development environment so AI tools can be tested without touching live data.
@@ -21,7 +21,7 @@ The work spans conversational memory, shared chats, caching, parallel AI request
 | Build | Connect | Ship |
 | :--- | :--- | :--- |
 | JavaScript · Python | OpenAI · Anthropic SDKs | React · Node.js · Express |
-| PostgreSQL · SQL | Tool calling · Memory · Streaming | APIs · Caching · AI test environments |
+| PostgreSQL · SQL | AI harness · Memory · Streaming | APIs · Caching · AI test environments |
 
 **In my editor & terminal:** Claude · Codex · Cursor · Grok CLI
 
